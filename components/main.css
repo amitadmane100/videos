@@ -1,0 +1,8 @@
+.my_list{
+display: flex;
+}
+
+.sidebar{
+    height: 80vh;
+    overflow-y: auto;
+}
